@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "fizz_buzz-testing",
+  "version": "1.0.0",
+  "description": "testing code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/lindseyneff26/fizz_buzz.git"
+  },
+  "keywords": [
+    "test;",
+    "Javascript;",
+    "math",
+    "modules"
+  ],
+  "author": "Lindseu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lindseyneff26/fizz_buzz/issues"
+  },
+  "homepage": "https://github.com/lindseyneff26/fizz_buzz#readme"
+}
